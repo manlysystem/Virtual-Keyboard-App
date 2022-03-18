@@ -1,0 +1,14 @@
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\bin\Debug\Sanal Klavye Uygulamasi.exe.config
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\bin\Debug\Sanal Klavye Uygulamasi.exe
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\bin\Debug\Sanal Klavye Uygulamasi.pdb
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal Klavye Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal Klavye Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal_Klavye_Uygulamasi.Form1.resources
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal_Klavye_Uygulamasi.Properties.Resources.resources
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal Klavye Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal Klavye Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal Klavye Uygulamasi.exe
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal Klavye Uygulamasi.pdb
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\bin\Debug\tr-TR\Sanal Klavye Uygulamasi.resources.dll
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\Sanal_Klavye_Uygulamasi.Form1.tr-TR.resources
+C:\Users\Manly\Desktop\source\Sanal Klavye Uygulamasi\Sanal Klavye Uygulamasi\obj\Debug\tr-TR\Sanal Klavye Uygulamasi.resources.dll
